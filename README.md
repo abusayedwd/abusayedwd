@@ -4,21 +4,22 @@
 
 
 <h1 align="center">Hi 👋, This is Abu Sayed</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">"Passionate developer | Open source enthusiast | Code craftsman 🚀 | Building the digital future one commit at a time 🌟 | Let's collaborate! 👨‍💻"</h3>
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abusayedwd&label=Profile%20views&color=0e75b6&style=flat" alt="abusayedwd" /> </p>
 
  
 
-- 🌱 I’m currently learning **Javascript, node , nextJS, expressJS,redux**
+- 👨‍💻## This is my Portfolio website :  [https://meek-daffodil-4c1a5f.netlify.app/](https://meek-daffodil-4c1a5f.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://meek-daffodil-4c1a5f.netlify.app/](https://meek-daffodil-4c1a5f.netlify.app/)
-
-- 💬 Ask me about **html, css, js, react, node, express, mongodb**
+- 📄 ## My Resume :  [https://drive.google.com/file/d/1Y5PFS1QcgfyYUwfJJ1kWojqFYtAToGys/view?usp=drive_link](https://drive.google.com/file/d/1Y5PFS1QcgfyYUwfJJ1kWojqFYtAToGys/view?usp=drive_link)
 
 - 📫 How to reach me **abusayednalita1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y5PFS1QcgfyYUwfJJ1kWojqFYtAToGys/view?usp=drive_link](https://drive.google.com/file/d/1Y5PFS1QcgfyYUwfJJ1kWojqFYtAToGys/view?usp=drive_link)
+- 💬 Ask me about **html, css, js, react, node, express, mongodb**
+
+- 🌱 I’m currently learning **Javascript, node , nextJS, expressJS,redux**
 
 - ⚡ Fun fact **😒😊**
 
