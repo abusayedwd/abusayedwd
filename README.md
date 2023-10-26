@@ -1,6 +1,6 @@
 
 
-<a href="https://ibb.co/dcP39xD"><img src="https://i.ibb.co/JdvbLgH/github-benner.png" alt="github-benner" border="0"></a>
+<a href="https://ibb.co/dcP39xD"><img src="https://i.ibb.co/JdvbLgH/github-benner.png" width="full" alt="github-benner" border="0"></a>
 
 
 <h1 align="center">Hi 👋, I'm Abu Sayed</h1>
